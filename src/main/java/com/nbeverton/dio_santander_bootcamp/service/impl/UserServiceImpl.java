@@ -1,8 +1,8 @@
-package com.nbeverton.dio_santander_bootcamp.domain.service.impl;
+package com.nbeverton.dio_santander_bootcamp.service.impl;
 
 import com.nbeverton.dio_santander_bootcamp.domain.model.User;
 import com.nbeverton.dio_santander_bootcamp.domain.repository.UserRepository;
-import com.nbeverton.dio_santander_bootcamp.domain.service.UserService;
+import com.nbeverton.dio_santander_bootcamp.service.UserService;
 import org.springframework.stereotype.Service;
 
 import java.util.NoSuchElementException;

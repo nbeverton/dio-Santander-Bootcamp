@@ -1,4 +1,4 @@
-package com.nbeverton.dio_santander_bootcamp.domain.service;
+package com.nbeverton.dio_santander_bootcamp.service;
 
 import com.nbeverton.dio_santander_bootcamp.domain.model.User;
 
